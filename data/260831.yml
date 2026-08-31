@@ -1,0 +1,62 @@
+about:
+  description: CFSSL: Cloudflare's PKI and TLS toolkit
+  license: BSD-2-Clause
+  homepage: https://cfssl.org/
+  head: e429e72
+  archived: false
+  latestVersion: v1.6.5
+  collectedAt: 2026-08-31T01:44:26Z
+timeline:
+  created: 2014-07-07
+  lastCommit: 2026-04-17
+  lastRelease: 2024-03-05
+popularity:
+  star: 9463
+  watcher: 202
+  fork: 1148
+  release: 16
+  contributor: 230
+  pullRequest: 194
+  issue: 577
+language:
+  Go: 1798892
+  Assembly: 72900
+  JavaScript: 22995
+  Makefile: 2679
+  Shell: 781
+  HTML: 639
+  Dockerfile: 585
+totalLine: 1899471
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 0
+    openIssue: 2
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 0
+    openPR: 4
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 1
+    openPR: 7
+    closedIssue: 0
+    openIssue: 4
+    commit: 1
+  last360d:
+    since: 2025-09-05
+    release: 0
+    mergedPR: 1
+    openPR: 7
+    closedIssue: 1
+    openIssue: 6
+    commit: 1
