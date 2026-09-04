@@ -7,7 +7,7 @@ about:
   head: e429e72
   archived: false
   latestVersion: v1.6.5
-  collectedAt: 2026-09-04T19:19:00Z
+  collectedAt: 2026-09-04T21:14:43Z
 timeline:
   created: 2014-07-07
   lastCommit: 2026-04-17
@@ -86,6 +86,109 @@ total:
   openIssue: 273
   commit: 1561
 ---
+path: /home/runner/.x-repo/github.com/cloudflare/cfssl
+collectedAt: 2026-09-04T21:14:45Z
+loc:
+  Go:
+    code: 451532
+    comments: 65736
+    blanks: 46638
+    files: 1632
+  C:
+    code: 170357
+    comments: 71669
+    blanks: 14180
+    files: 4
+  AssemblyGAS:
+    code: 10050
+    comments: 1087
+    blanks: 2236
+    files: 58
+  CHeader:
+    code: 2410
+    comments: 11416
+    blanks: 358
+    files: 2
+  Sh:
+    code: 1151
+    comments: 65
+    blanks: 93
+    files: 14
+  Json:
+    code: 983
+    comments: 0
+    blanks: 1
+    files: 53
+  Yaml:
+    code: 694
+    comments: 80
+    blanks: 81
+    files: 8
+  JavaScript:
+    code: 652
+    comments: 8
+    blanks: 74
+    files: 1
+  Bash:
+    code: 404
+    comments: 60
+    blanks: 46
+    files: 3
+  Bitbake:
+    code: 173
+    comments: 2
+    blanks: 28
+    files: 23
+  Makefile:
+    code: 142
+    comments: 30
+    blanks: 43
+    files: 4
+  Toml:
+    code: 102
+    comments: 4
+    blanks: 32
+    files: 4
+  Sql:
+    code: 89
+    comments: 25
+    blanks: 15
+    files: 6
+  Dockerfile:
+    code: 26
+    comments: 0
+    blanks: 8
+    files: 2
+  Html:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 1
+  Protobuf:
+    code: 13
+    comments: 24
+    blanks: 8
+    files: 1
+  Python:
+    code: 11
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4062
+    blanks: 1642
+    files: 56
+  Text:
+    code: 0
+    comments: 5230
+    blanks: 368
+    files: 28
+total:
+  code: 639243
+  comments: 159547
+  blanks: 65912
+  files: 1901
 ---
 date: "2026-08-24"
 repo:
