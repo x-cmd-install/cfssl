@@ -5,7 +5,7 @@ about:
   head: e429e72
   archived: false
   latestVersion: "v1.6.5"
-  collectedAt: 2026-09-08T01:58:32Z
+  collectedAt: 2026-09-08T04:39:42Z
 timeline:
   created: 2014-07-07
   lastCommit: 2026-04-17
@@ -85,7 +85,7 @@ total:
   commit: 1561
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/cfssl
-collectedAt: 2026-09-08T01:58:39Z
+collectedAt: 2026-09-08T04:39:48Z
 loc:
   Go:
     code: 451532
