@@ -12,6 +12,28 @@ CFSSL: Cloudflare's PKI and TLS toolkit
 x install cfssl
 ```
 
+## Code insight
+
+Total: **638,807** lines of code across **1710** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 451,532 | 65,736 | 46,638 | 1632 |
+| C | 170,357 | 71,669 | 14,180 | 4 |
+| AssemblyGAS | 10,050 | 1,087 | 2,236 | 58 |
+| CHeader | 2,410 | 11,416 | 358 | 2 |
+| Sh | 1,151 | 65 | 93 | 14 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/cloudflare/cfssl>
@@ -23,6 +45,25 @@ x install cfssl
 - **Latest**: `v1.6.5` (2024-03-05)
 - **Last commit**: 2026-04-17
 - **Assets in release**: 50
+
+## Popularity
+
+- **Stars**: 9,468 · **Forks**: 1,148 · **Open issues**: 577 · **Contributors**: 228
+
+## Totals (cumulative)
+
+- **Releases**: 16 · **Merged PRs**: 660 · **Open PRs**: 65 · **Closed issues**: 304 · **Open issues**: 273 · **Commits**: 1561
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 4 | 0 |
+| last180d | 2026-03-14 | 0 | 1 | 6 | 0 | 4 | 1 |
+| 360d | 2025-09-15 | 0 | 1 | 7 | 1 | 6 | 1 |
+| last720d | 2024-09-20 | 0 | 8 | 13 | 3 | 19 | 17 |
 
 ## Release assets
 
@@ -79,43 +120,17 @@ x install cfssl
 | [multirootca_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_linux_s390x) | 11.9 MiB | `other` |
 | [multirootca_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_windows_amd64.exe) | 11.6 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 9,468 · **Forks**: 1,148 · **Open issues**: 577 · **Contributors**: 232
+Reported by **30** distros on [repology.org](https://repology.org/project/cfssl). **28** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 16 · **Merged PRs**: 660 · **Open PRs**: 65 · **Closed issues**: 304 · **Open issues**: 273 · **Commits**: 1561
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 4 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 7 | 1 | 6 | 1 |
-
-## Code size
-
-Total: **638,807** lines of code across **1710** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 451,532 | 65,736 | 46,638 | 1632 |
-| C | 170,357 | 71,669 | 14,180 | 4 |
-| AssemblyGAS | 10,050 | 1,087 | 2,236 | 58 |
-| CHeader | 2,410 | 11,416 | 358 | 2 |
-| Sh | 1,151 | 65 | 93 | 14 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.2 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.6.5` | ✅ latest |
+| Homebrew | `1.6.5` | ✅ latest |
+| Nix unstable | `1.6.5` | ✅ latest |
+| Void | `1.6.5` | ✅ latest |
+| Alpine edge | `1.6.5` | ✅ latest |
 
 ## Improve this data
 
@@ -126,4 +141,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:31:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:04:56Z._
