@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,468 · **Forks**: 1,148 · **Open issues**: 577 · **Contributors**: 225
+- **Stars**: 9,468 · **Forks**: 1,149 · **Open issues**: 577 · **Contributors**: 225
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last180d | 2026-03-17 | 0 | 1 | 6 | 0 | 4 | 1 |
-| 360d | 2025-09-18 | 0 | 1 | 7 | 1 | 6 | 1 |
-| last720d | 2024-09-23 | 0 | 7 | 13 | 3 | 19 | 16 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last180d | 2026-03-18 | 0 | 1 | 6 | 0 | 4 | 1 |
+| 360d | 2025-09-19 | 0 | 1 | 7 | 1 | 5 | 1 |
+| last720d | 2024-09-24 | 0 | 7 | 13 | 3 | 19 | 16 |
 
 ## Release assets
 
@@ -120,18 +120,6 @@ Lowest-scoring checks:
 | [multirootca_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_linux_s390x) | 11.9 MiB | `other` |
 | [multirootca_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_windows_amd64.exe) | 11.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **30** distros on [repology.org](https://repology.org/project/cfssl). **28** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.6.5` | ✅ latest |
-| Homebrew | `1.6.5` | ✅ latest |
-| Nix unstable | `1.6.5` | ✅ latest |
-| Void | `1.6.5` | ✅ latest |
-| Alpine edge | `1.6.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cfssl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -141,4 +129,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:50:48Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:11:08Z._
