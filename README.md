@@ -4,7 +4,7 @@
 
 CFSSL: Cloudflare's PKI and TLS toolkit
 
-[![x-cmd/install — cfssl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cfssl.svg)](https://x-cmd.com/install/cfssl)
+[![x-cmd/install — cfssl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cfssl.svg)](https://x-cmd.com/install/cfssl)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,475 · **Forks**: 1,150 · **Open issues**: 577 · **Contributors**: 226
+- **Stars**: 9,474 · **Forks**: 1,149 · **Open issues**: 577 · **Contributors**: 227
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 660 · **Open PRs**: 65 · **Closed issues**: 304 · **Open issues**: 273 · **Commits**: 1561
+- **Releases**: 16 · **Merged PRs**: 660 · **Open PRs**: 64 · **Closed issues**: 304 · **Open issues**: 273 · **Commits**: 1561
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-03-26 | 0 | 1 | 6 | 0 | 4 | 1 |
-| 360d | 2025-09-27 | 0 | 1 | 7 | 1 | 5 | 1 |
-| last720d | 2024-10-02 | 0 | 7 | 12 | 3 | 18 | 15 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 1 | 6 | 0 | 4 | 1 |
+| 360d | 2025-09-28 | 0 | 1 | 7 | 1 | 5 | 1 |
+| last720d | 2024-10-03 | 0 | 7 | 12 | 3 | 18 | 15 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:58:01Z._
