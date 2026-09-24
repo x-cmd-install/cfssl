@@ -14,15 +14,15 @@ x install cfssl
 
 ## Code insight
 
-Total: **638,807** lines of code across **1710** files in the top 5 languages.
+Total: **639,730** lines of code across **1713** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 451,532 | 65,736 | 46,638 | 1632 |
+| Go | 451,651 | 65,717 | 46,635 | 1632 |
 | C | 170,357 | 71,669 | 14,180 | 4 |
 | AssemblyGAS | 10,050 | 1,087 | 2,236 | 58 |
 | CHeader | 2,410 | 11,416 | 358 | 2 |
-| Sh | 1,151 | 65 | 93 | 14 |
+| Sh | 1,955 | 322 | 232 | 17 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.6.5` (2024-03-05)
-- **Last commit**: 2026-04-17
+- **Last commit**: 2026-09-23
 - **Assets in release**: 50
 
 ## Popularity
 
-- **Stars**: 9,474 · **Forks**: 1,149 · **Open issues**: 577 · **Contributors**: 227
+- **Stars**: 9,475 · **Forks**: 1,148 · **Open issues**: 577 · **Contributors**: 228
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 660 · **Open PRs**: 64 · **Closed issues**: 304 · **Open issues**: 273 · **Commits**: 1561
+- **Releases**: 16 · **Merged PRs**: 661 · **Open PRs**: 63 · **Closed issues**: 305 · **Open issues**: 272 · **Commits**: 1569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-25 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 90d | 2026-06-25 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-03-27 | 0 | 1 | 6 | 0 | 4 | 1 |
-| 360d | 2025-09-28 | 0 | 1 | 7 | 1 | 5 | 1 |
-| last720d | 2024-10-03 | 0 | 7 | 12 | 3 | 18 | 15 |
+| 30d | 2026-08-25 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last60d | 2026-07-26 | 0 | 0 | 3 | 0 | 2 | 1 |
+| 90d | 2026-06-26 | 0 | 0 | 3 | 0 | 2 | 1 |
+| last180d | 2026-03-28 | 0 | 1 | 6 | 0 | 4 | 2 |
+| 360d | 2025-09-29 | 0 | 2 | 6 | 1 | 5 | 7 |
+| last720d | 2024-10-04 | 0 | 8 | 11 | 4 | 17 | 23 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:58:01Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:48:40Z._
