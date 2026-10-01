@@ -14,7 +14,7 @@ x install cfssl
 
 ## Code insight
 
-Total: **640,864** lines of code across **1716** files in the top 5 languages.
+Total: **640,865** lines of code across **1716** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,83 +42,83 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.6.5` (2024-03-05)
-- **Last commit**: 2026-09-28
+- **Latest**: `v1.7.0` (2026-09-30)
+- **Last commit**: 2026-09-30
 - **Assets in release**: 50
 
 ## Popularity
 
-- **Stars**: 9,478 · **Forks**: 1,148 · **Open issues**: 577 · **Contributors**: 229
+- **Stars**: 9,478 · **Forks**: 1,148 · **Open issues**: 577 · **Contributors**: 230
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 662 · **Open PRs**: 61 · **Closed issues**: 306 · **Open issues**: 271 · **Commits**: 1571
+- **Releases**: 17 · **Merged PRs**: 663 · **Open PRs**: 61 · **Closed issues**: 306 · **Open issues**: 271 · **Commits**: 1573
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-01 | 0 | 1 | 2 | 0 | 2 | 2 |
-| 90d | 2026-07-02 | 0 | 1 | 2 | 0 | 2 | 2 |
-| last180d | 2026-04-03 | 0 | 2 | 5 | 0 | 4 | 3 |
-| 360d | 2025-10-05 | 0 | 3 | 5 | 1 | 5 | 8 |
-| last720d | 2024-10-10 | 0 | 9 | 9 | 4 | 17 | 25 |
+| 30d | 2026-09-01 | 1 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-02 | 1 | 2 | 2 | 0 | 2 | 3 |
+| 90d | 2026-07-03 | 1 | 2 | 2 | 0 | 2 | 3 |
+| last180d | 2026-04-04 | 1 | 3 | 5 | 0 | 4 | 4 |
+| 360d | 2025-10-06 | 1 | 4 | 5 | 1 | 5 | 9 |
+| last720d | 2024-10-11 | 1 | 10 | 9 | 4 | 17 | 27 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cfssl-bundle_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-bundle_1.6.5_darwin_amd64) | 8.2 MiB | `native/darwin/x64` |
-| [cfssl-bundle_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-bundle_1.6.5_linux_amd64) | 8.1 MiB | `native/linux/x64` |
-| [cfssl-bundle_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-bundle_1.6.5_linux_arm64) | 7.9 MiB | `native/linux/arm64` |
-| [cfssl-bundle_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-bundle_1.6.5_linux_armv6) | 7.8 MiB | `native/linux/arm` |
-| [cfssl-bundle_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-bundle_1.6.5_linux_s390x) | 8.7 MiB | `other` |
-| [cfssl-bundle_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-bundle_1.6.5_windows_amd64.exe) | 8.4 MiB | `native/win/x64` |
-| [cfssl-certinfo_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-certinfo_1.6.5_darwin_amd64) | 9.7 MiB | `native/darwin/x64` |
-| [cfssl-certinfo_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-certinfo_1.6.5_linux_amd64) | 8.0 MiB | `native/linux/x64` |
-| [cfssl-certinfo_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-certinfo_1.6.5_linux_arm64) | 7.8 MiB | `native/linux/arm64` |
-| [cfssl-certinfo_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-certinfo_1.6.5_linux_armv6) | 7.7 MiB | `native/linux/arm` |
-| [cfssl-certinfo_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-certinfo_1.6.5_linux_s390x) | 8.6 MiB | `other` |
-| [cfssl-certinfo_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-certinfo_1.6.5_windows_amd64.exe) | 8.3 MiB | `native/win/x64` |
-| [cfssl-newkey_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-newkey_1.6.5_darwin_amd64) | 9.4 MiB | `native/darwin/x64` |
-| [cfssl-newkey_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-newkey_1.6.5_linux_amd64) | 9.3 MiB | `native/linux/x64` |
-| [cfssl-newkey_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-newkey_1.6.5_linux_arm64) | 9.1 MiB | `native/linux/arm64` |
-| [cfssl-newkey_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-newkey_1.6.5_linux_armv6) | 8.8 MiB | `native/linux/arm` |
-| [cfssl-newkey_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-newkey_1.6.5_linux_s390x) | 9.9 MiB | `other` |
-| [cfssl-newkey_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-newkey_1.6.5_windows_amd64.exe) | 9.6 MiB | `native/win/x64` |
-| [cfssl-scan_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-scan_1.6.5_darwin_amd64) | 8.6 MiB | `native/darwin/x64` |
-| [cfssl-scan_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-scan_1.6.5_linux_amd64) | 8.5 MiB | `native/linux/x64` |
-| [cfssl-scan_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-scan_1.6.5_linux_arm64) | 8.2 MiB | `native/linux/arm64` |
-| [cfssl-scan_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-scan_1.6.5_linux_armv6) | 8.1 MiB | `native/linux/arm` |
-| [cfssl-scan_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-scan_1.6.5_linux_s390x) | 9.1 MiB | `other` |
-| [cfssl-scan_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl-scan_1.6.5_windows_amd64.exe) | 8.7 MiB | `native/win/x64` |
-| [cfssljson_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssljson_1.6.5_darwin_amd64) | 6.0 MiB | `native/darwin/x64` |
-| [cfssljson_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssljson_1.6.5_linux_amd64) | 5.9 MiB | `native/linux/x64` |
-| [cfssljson_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssljson_1.6.5_linux_arm64) | 5.8 MiB | `native/linux/arm64` |
-| [cfssljson_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssljson_1.6.5_linux_armv6) | 5.4 MiB | `native/linux/arm` |
-| [cfssljson_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssljson_1.6.5_linux_s390x) | 6.4 MiB | `other` |
-| [cfssljson_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssljson_1.6.5_windows_amd64.exe) | 6.1 MiB | `native/win/x64` |
-| [cfssl_1.6.5_checksums.txt](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_checksums.txt) | 4.6 KiB | `other` |
-| [cfssl_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_darwin_amd64) | 13.0 MiB | `native/darwin/x64` |
-| [cfssl_1.6.5_darwin_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_darwin_arm64) | 12.6 MiB | `native/darwin/arm64` |
-| [cfssl_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_linux_amd64) | 11.3 MiB | `native/linux/x64` |
-| [cfssl_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_linux_arm64) | 11.0 MiB | `native/linux/arm64` |
-| [cfssl_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_linux_armv6) | 10.8 MiB | `native/linux/arm` |
-| [cfssl_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_linux_s390x) | 12.1 MiB | `other` |
-| [cfssl_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/cfssl_1.6.5_windows_amd64.exe) | 11.7 MiB | `native/win/x64` |
-| [mkbundle_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/mkbundle_1.6.5_darwin_amd64) | 5.0 MiB | `native/darwin/x64` |
-| [mkbundle_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/mkbundle_1.6.5_linux_amd64) | 4.9 MiB | `native/linux/x64` |
-| [mkbundle_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/mkbundle_1.6.5_linux_arm64) | 4.7 MiB | `native/linux/arm64` |
-| [mkbundle_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/mkbundle_1.6.5_linux_armv6) | 4.7 MiB | `native/linux/arm` |
-| [mkbundle_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/mkbundle_1.6.5_linux_s390x) | 5.2 MiB | `other` |
-| [mkbundle_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/mkbundle_1.6.5_windows_amd64.exe) | 5.0 MiB | `native/win/x64` |
-| [multirootca_1.6.5_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_darwin_amd64) | 12.9 MiB | `native/darwin/x64` |
-| [multirootca_1.6.5_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_linux_amd64) | 11.2 MiB | `native/linux/x64` |
-| [multirootca_1.6.5_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_linux_arm64) | 10.8 MiB | `native/linux/arm64` |
-| [multirootca_1.6.5_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_linux_armv6) | 10.6 MiB | `native/linux/arm` |
-| [multirootca_1.6.5_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_linux_s390x) | 11.9 MiB | `other` |
-| [multirootca_1.6.5_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.6.5/multirootca_1.6.5_windows_amd64.exe) | 11.6 MiB | `native/win/x64` |
+| [cfssl-bundle_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-bundle_1.7.0_darwin_amd64) | 12.3 MiB | `native/darwin/x64` |
+| [cfssl-bundle_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-bundle_1.7.0_linux_amd64) | 12.2 MiB | `native/linux/x64` |
+| [cfssl-bundle_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-bundle_1.7.0_linux_arm64) | 11.4 MiB | `native/linux/arm64` |
+| [cfssl-bundle_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-bundle_1.7.0_linux_armv6) | 11.8 MiB | `native/linux/arm` |
+| [cfssl-bundle_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-bundle_1.7.0_linux_s390x) | 12.6 MiB | `other` |
+| [cfssl-bundle_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-bundle_1.7.0_windows_amd64.exe) | 12.5 MiB | `native/win/x64` |
+| [cfssl-certinfo_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-certinfo_1.7.0_darwin_amd64) | 13.8 MiB | `native/darwin/x64` |
+| [cfssl-certinfo_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-certinfo_1.7.0_linux_amd64) | 12.2 MiB | `native/linux/x64` |
+| [cfssl-certinfo_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-certinfo_1.7.0_linux_arm64) | 11.4 MiB | `native/linux/arm64` |
+| [cfssl-certinfo_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-certinfo_1.7.0_linux_armv6) | 11.8 MiB | `native/linux/arm` |
+| [cfssl-certinfo_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-certinfo_1.7.0_linux_s390x) | 12.6 MiB | `other` |
+| [cfssl-certinfo_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-certinfo_1.7.0_windows_amd64.exe) | 12.6 MiB | `native/win/x64` |
+| [cfssl-newkey_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-newkey_1.7.0_darwin_amd64) | 12.8 MiB | `native/darwin/x64` |
+| [cfssl-newkey_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-newkey_1.7.0_linux_amd64) | 12.7 MiB | `native/linux/x64` |
+| [cfssl-newkey_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-newkey_1.7.0_linux_arm64) | 12.0 MiB | `native/linux/arm64` |
+| [cfssl-newkey_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-newkey_1.7.0_linux_armv6) | 12.2 MiB | `native/linux/arm` |
+| [cfssl-newkey_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-newkey_1.7.0_linux_s390x) | 13.3 MiB | `other` |
+| [cfssl-newkey_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-newkey_1.7.0_windows_amd64.exe) | 13.1 MiB | `native/win/x64` |
+| [cfssl-scan_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-scan_1.7.0_darwin_amd64) | 12.6 MiB | `native/darwin/x64` |
+| [cfssl-scan_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-scan_1.7.0_linux_amd64) | 12.5 MiB | `native/linux/x64` |
+| [cfssl-scan_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-scan_1.7.0_linux_arm64) | 11.8 MiB | `native/linux/arm64` |
+| [cfssl-scan_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-scan_1.7.0_linux_armv6) | 12.0 MiB | `native/linux/arm` |
+| [cfssl-scan_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-scan_1.7.0_linux_s390x) | 13.0 MiB | `other` |
+| [cfssl-scan_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl-scan_1.7.0_windows_amd64.exe) | 12.9 MiB | `native/win/x64` |
+| [cfssljson_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssljson_1.7.0_darwin_amd64) | 9.7 MiB | `native/darwin/x64` |
+| [cfssljson_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssljson_1.7.0_linux_amd64) | 9.7 MiB | `native/linux/x64` |
+| [cfssljson_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssljson_1.7.0_linux_arm64) | 9.1 MiB | `native/linux/arm64` |
+| [cfssljson_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssljson_1.7.0_linux_armv6) | 9.3 MiB | `native/linux/arm` |
+| [cfssljson_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssljson_1.7.0_linux_s390x) | 10.0 MiB | `other` |
+| [cfssljson_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssljson_1.7.0_windows_amd64.exe) | 9.9 MiB | `native/win/x64` |
+| [cfssl_1.7.0_checksums.txt](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_checksums.txt) | 4.6 KiB | `other` |
+| [cfssl_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_darwin_amd64) | 16.6 MiB | `native/darwin/x64` |
+| [cfssl_1.7.0_darwin_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_darwin_arm64) | 15.6 MiB | `native/darwin/arm64` |
+| [cfssl_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_linux_amd64) | 15.0 MiB | `native/linux/x64` |
+| [cfssl_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_linux_arm64) | 14.1 MiB | `native/linux/arm64` |
+| [cfssl_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_linux_armv6) | 14.4 MiB | `native/linux/arm` |
+| [cfssl_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_linux_s390x) | 15.5 MiB | `other` |
+| [cfssl_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/cfssl_1.7.0_windows_amd64.exe) | 15.4 MiB | `native/win/x64` |
+| [mkbundle_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/mkbundle_1.7.0_darwin_amd64) | 6.5 MiB | `native/darwin/x64` |
+| [mkbundle_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/mkbundle_1.7.0_linux_amd64) | 6.4 MiB | `native/linux/x64` |
+| [mkbundle_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/mkbundle_1.7.0_linux_arm64) | 6.0 MiB | `native/linux/arm64` |
+| [mkbundle_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/mkbundle_1.7.0_linux_armv6) | 6.4 MiB | `native/linux/arm` |
+| [mkbundle_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/mkbundle_1.7.0_linux_s390x) | 6.7 MiB | `other` |
+| [mkbundle_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/mkbundle_1.7.0_windows_amd64.exe) | 6.6 MiB | `native/win/x64` |
+| [multirootca_1.7.0_darwin_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/multirootca_1.7.0_darwin_amd64) | 16.7 MiB | `native/darwin/x64` |
+| [multirootca_1.7.0_linux_amd64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/multirootca_1.7.0_linux_amd64) | 15.1 MiB | `native/linux/x64` |
+| [multirootca_1.7.0_linux_arm64](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/multirootca_1.7.0_linux_arm64) | 14.1 MiB | `native/linux/arm64` |
+| [multirootca_1.7.0_linux_armv6](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/multirootca_1.7.0_linux_armv6) | 14.4 MiB | `native/linux/arm` |
+| [multirootca_1.7.0_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/multirootca_1.7.0_linux_s390x) | 15.6 MiB | `other` |
+| [multirootca_1.7.0_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.0/multirootca_1.7.0_windows_amd64.exe) | 15.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -129,4 +129,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:40:30Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:58:42Z._
