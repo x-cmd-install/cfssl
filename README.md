@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,478 · **Forks**: 1,147 · **Open issues**: 578 · **Contributors**: 231
+- **Stars**: 9,479 · **Forks**: 1,148 · **Open issues**: 578 · **Contributors**: 231
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 1 | 0 | 0 | 1 | 3 |
-| last60d | 2026-08-05 | 1 | 2 | 2 | 0 | 3 | 3 |
-| 90d | 2026-07-06 | 1 | 2 | 2 | 0 | 3 | 3 |
-| last180d | 2026-04-07 | 1 | 3 | 5 | 0 | 5 | 4 |
-| 360d | 2025-10-09 | 1 | 4 | 5 | 1 | 6 | 9 |
-| last720d | 2024-10-14 | 1 | 10 | 9 | 4 | 18 | 27 |
+| 30d | 2026-09-05 | 1 | 1 | 0 | 0 | 1 | 3 |
+| last60d | 2026-08-06 | 1 | 2 | 2 | 0 | 3 | 3 |
+| 90d | 2026-07-07 | 1 | 2 | 2 | 0 | 3 | 3 |
+| last180d | 2026-04-08 | 1 | 3 | 5 | 0 | 5 | 4 |
+| 360d | 2025-10-10 | 1 | 4 | 5 | 1 | 6 | 9 |
+| last720d | 2024-10-15 | 1 | 10 | 9 | 4 | 18 | 27 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:49:24Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:34:09Z._
