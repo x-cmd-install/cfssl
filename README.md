@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,487 · **Forks**: 1,155 · **Open issues**: 579 · **Contributors**: 235
+- **Stars**: 9,489 · **Forks**: 1,156 · **Open issues**: 580 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 664 · **Open PRs**: 68 · **Closed issues**: 306 · **Open issues**: 273 · **Commits**: 1575
+- **Releases**: 18 · **Merged PRs**: 664 · **Open PRs**: 69 · **Closed issues**: 306 · **Open issues**: 274 · **Commits**: 1575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 2 | 7 | 0 | 2 | 3 |
-| last60d | 2026-08-20 | 2 | 3 | 7 | 0 | 3 | 4 |
-| 90d | 2026-07-21 | 2 | 3 | 9 | 0 | 4 | 4 |
-| last180d | 2026-04-22 | 2 | 3 | 12 | 0 | 6 | 4 |
-| 360d | 2025-10-24 | 2 | 5 | 12 | 1 | 7 | 10 |
-| last720d | 2024-10-29 | 2 | 11 | 15 | 4 | 18 | 28 |
+| 30d | 2026-09-20 | 2 | 2 | 8 | 0 | 3 | 3 |
+| last60d | 2026-08-21 | 2 | 3 | 8 | 0 | 4 | 4 |
+| 90d | 2026-07-22 | 2 | 3 | 10 | 0 | 5 | 4 |
+| last180d | 2026-04-23 | 2 | 3 | 13 | 0 | 7 | 4 |
+| 360d | 2025-10-25 | 2 | 5 | 13 | 1 | 8 | 10 |
+| last720d | 2024-10-30 | 2 | 11 | 16 | 4 | 19 | 28 |
 
 ## Release assets
 
@@ -145,4 +145,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:39:40Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:50:14Z._
