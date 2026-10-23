@@ -14,11 +14,11 @@ x install cfssl
 
 ## Code insight
 
-Total: **640,865** lines of code across **1716** files in the top 5 languages.
+Total: **640,885** lines of code across **1716** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 452,785 | 65,757 | 46,733 | 1635 |
+| Go | 452,804 | 65,758 | 46,733 | 1635 |
 | C | 170,357 | 71,669 | 14,180 | 4 |
 | AssemblyGAS | 10,050 | 1,087 | 2,236 | 58 |
 | CHeader | 2,410 | 11,416 | 358 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.1` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-22
 - **Assets in release**: 66
 
 ## Popularity
 
-- **Stars**: 9,491 · **Forks**: 1,156 · **Open issues**: 581 · **Contributors**: 237
+- **Stars**: 9,493 · **Forks**: 1,157 · **Open issues**: 581 · **Contributors**: 238
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 664 · **Open PRs**: 70 · **Closed issues**: 306 · **Open issues**: 275 · **Commits**: 1575
+- **Releases**: 18 · **Merged PRs**: 667 · **Open PRs**: 68 · **Closed issues**: 307 · **Open issues**: 274 · **Commits**: 1582
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 2 | 9 | 0 | 4 | 3 |
-| last60d | 2026-08-23 | 2 | 3 | 9 | 0 | 5 | 4 |
-| 90d | 2026-07-24 | 2 | 3 | 11 | 0 | 6 | 4 |
-| last180d | 2026-04-25 | 2 | 3 | 13 | 0 | 8 | 4 |
-| 360d | 2025-10-27 | 2 | 5 | 14 | 1 | 9 | 10 |
-| last720d | 2024-11-01 | 2 | 11 | 17 | 4 | 20 | 28 |
+| 30d | 2026-09-23 | 2 | 5 | 7 | 1 | 3 | 7 |
+| last60d | 2026-08-24 | 2 | 6 | 7 | 1 | 4 | 8 |
+| 90d | 2026-07-25 | 2 | 6 | 9 | 1 | 5 | 8 |
+| last180d | 2026-04-26 | 2 | 6 | 11 | 1 | 7 | 8 |
+| 360d | 2025-10-28 | 2 | 8 | 12 | 2 | 8 | 14 |
+| last720d | 2024-11-02 | 2 | 14 | 15 | 5 | 19 | 35 |
 
 ## Release assets
 
@@ -136,6 +136,18 @@ Lowest-scoring checks:
 | [multirootca_1.7.1_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.1/multirootca_1.7.1_linux_s390x) | 15.6 MiB | `other` |
 | [multirootca_1.7.1_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.1/multirootca_1.7.1_windows_amd64.exe) | 15.5 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **30** distros on [repology.org](https://repology.org/project/cfssl). **6** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.6.5` | ⚠️ outdated |
+| Homebrew | `1.7.1` | ✅ latest |
+| Nix unstable | `1.6.5` | ⚠️ outdated |
+| Void | `1.6.5` | ⚠️ outdated |
+| Alpine edge | `1.6.5` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cfssl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -145,4 +157,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:12Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:47:27Z._

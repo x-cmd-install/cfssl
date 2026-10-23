@@ -14,11 +14,11 @@ x install cfssl
 
 ## 代码洞察
 
-合计: **640,865** 行代码（覆盖前 5 种语言、共 **1716** 个文件）。
+合计: **640,885** 行代码（覆盖前 5 种语言、共 **1716** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 452,785 | 65,757 | 46,733 | 1635 |
+| Go | 452,804 | 65,758 | 46,733 | 1635 |
 | C | 170,357 | 71,669 | 14,180 | 4 |
 | AssemblyGAS | 10,050 | 1,087 | 2,236 | 58 |
 | CHeader | 2,410 | 11,416 | 358 | 2 |
@@ -43,27 +43,27 @@ x install cfssl
 ## 发布
 
 - **最新版本**: `v1.7.1` (2026-10-06)
-- **最近提交**: 2026-10-06
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 66 个
 
 ## 流行度
 
-- **Star**: 9,491 · **Fork**: 1,156 · **开放 issue**: 581 · **贡献者**: 237
+- **Star**: 9,493 · **Fork**: 1,157 · **开放 issue**: 581 · **贡献者**: 238
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 664 · **开放 PR**: 70 · **已关闭 issue**: 306 · **开放 issue**: 275 · **提交数**: 1575
+- **发布数**: 18 · **已合并 PR**: 667 · **开放 PR**: 68 · **已关闭 issue**: 307 · **开放 issue**: 274 · **提交数**: 1582
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 2 | 9 | 0 | 4 | 3 |
-| last60d | 2026-08-23 | 2 | 3 | 9 | 0 | 5 | 4 |
-| 90d | 2026-07-24 | 2 | 3 | 11 | 0 | 6 | 4 |
-| last180d | 2026-04-25 | 2 | 3 | 13 | 0 | 8 | 4 |
-| 360d | 2025-10-27 | 2 | 5 | 14 | 1 | 9 | 10 |
-| last720d | 2024-11-01 | 2 | 11 | 17 | 4 | 20 | 28 |
+| 30d | 2026-09-23 | 2 | 5 | 7 | 1 | 3 | 7 |
+| last60d | 2026-08-24 | 2 | 6 | 7 | 1 | 4 | 8 |
+| 90d | 2026-07-25 | 2 | 6 | 9 | 1 | 5 | 8 |
+| last180d | 2026-04-26 | 2 | 6 | 11 | 1 | 7 | 8 |
+| 360d | 2025-10-28 | 2 | 8 | 12 | 2 | 8 | 14 |
+| last720d | 2024-11-02 | 2 | 14 | 15 | 5 | 19 | 35 |
 
 ## Release 资产
 
@@ -136,6 +136,18 @@ x install cfssl
 | [multirootca_1.7.1_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.1/multirootca_1.7.1_linux_s390x) | 15.6 MiB | `other` |
 | [multirootca_1.7.1_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.1/multirootca_1.7.1_windows_amd64.exe) | 15.5 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cfssl) 上共有 **30** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.6.5` | ⚠️ outdated |
+| Homebrew | `1.7.1` | ✅ latest |
+| Nix unstable | `1.6.5` | ⚠️ outdated |
+| Void | `1.6.5` | ⚠️ outdated |
+| Alpine edge | `1.6.5` | ⚠️ outdated |
+
 ## 改进这些数据
 
 cfssl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cfssl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -145,4 +157,4 @@ cfssl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:42:13Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:47:28Z._
