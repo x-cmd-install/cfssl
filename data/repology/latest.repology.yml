@@ -1,3 +1,15 @@
+- repo: pkgsrc_2026_2
+  srcname: security/cfssl
+  binname: cfssl
+  visiblename: security/cfssl
+  version: 1.6.5
+  origversion: 1.6.5nb21
+  status: outdated
+  summary: CloudFlare PKI toolkit
+  maintainers:
+    - iquiw@netbsd.org
+  categories:
+    - security
 - repo: alpine_edge
   subrepo: testing
   srcname: cfssl
@@ -266,24 +278,12 @@
   summary: CloudFlare PKI and TLS toolkit
   licenses:
     - BSD-2-Clause
-- repo: pkgsrc_2026_2
-  srcname: security/cfssl
-  binname: cfssl
-  visiblename: security/cfssl
-  version: 1.6.5
-  origversion: 1.6.5nb21
-  status: outdated
-  summary: CloudFlare PKI toolkit
-  maintainers:
-    - iquiw@netbsd.org
-  categories:
-    - security
 - repo: pkgsrc_2026_3
   srcname: security/cfssl
   binname: cfssl
   visiblename: security/cfssl
   version: 1.6.5
-  origversion: 1.6.5nb25
+  origversion: 1.6.5nb26
   status: outdated
   summary: CloudFlare PKI toolkit
   maintainers:
