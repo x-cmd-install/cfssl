@@ -1,25 +1,3 @@
-- repo: openpkg_current
-  srcname: cfssl
-  visiblename: cfssl
-  version: 1.6.5.20250720
-  origversion: null
-  status: outdated
-  summary: CloudFlare PKI Toolkit
-  licenses:
-    - MIT
-  categories:
-    - Networking
-- repo: parabola
-  subrepo: extra
-  srcname: cfssl
-  binname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-2
-  status: outdated
-  summary: CloudFlare PKI and TLS toolkit
-  licenses:
-    - BSD-2-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: cfssl
@@ -107,6 +85,22 @@
   origversion: null
   status: rolling
   summary: CloudFlare's PKI toolkit
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: cfssl
+  binnames:
+    - cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: 1.6.5-1
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - BSD
+  categories:
+    - Development/Other
 - repo: liguros_stable
   srcname: app-crypt/cfssl
   visiblename: app-crypt/cfssl
@@ -266,6 +260,28 @@
     - ports@openbsd.org
   categories:
     - security
+- repo: openpkg_current
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.6.5.20250720
+  origversion: null
+  status: outdated
+  summary: CloudFlare PKI Toolkit
+  licenses:
+    - MIT
+  categories:
+    - Networking
+- repo: parabola
+  subrepo: extra
+  srcname: cfssl
+  binname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: 1.6.5-2
+  status: outdated
+  summary: CloudFlare PKI and TLS toolkit
+  licenses:
+    - BSD-2-Clause
 - repo: pkgsrc_2026_2
   srcname: security/cfssl
   binname: cfssl
@@ -302,22 +318,6 @@
     - iquiw@netbsd.org
   categories:
     - security
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: cfssl
-  binnames:
-    - cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-1
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - BSD
-  categories:
-    - Development/Other
 - repo: scoop
   subrepo: extras
   binname: cfssl
