@@ -85,22 +85,6 @@
   origversion: null
   status: rolling
   summary: CloudFlare's PKI toolkit
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: cfssl
-  binnames:
-    - cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-1
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - BSD
-  categories:
-    - Development/Other
 - repo: liguros_stable
   srcname: app-crypt/cfssl
   visiblename: app-crypt/cfssl
@@ -318,6 +302,22 @@
     - iquiw@netbsd.org
   categories:
     - security
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: cfssl
+  binnames:
+    - cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: 1.6.5-1
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - BSD
+  categories:
+    - Development/Other
 - repo: scoop
   subrepo: extras
   binname: cfssl
