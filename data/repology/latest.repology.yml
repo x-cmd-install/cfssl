@@ -9,51 +9,16 @@
     - MIT
   categories:
     - Networking
-- repo: parabola
-  subrepo: extra
-  srcname: cfssl
-  binname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-2
-  status: outdated
-  summary: CloudFlare PKI and TLS toolkit
-  licenses:
-    - BSD-2-Clause
-- repo: pkgsrc_2026_2
+- repo: openbsd
   srcname: security/cfssl
   binname: cfssl
   visiblename: security/cfssl
   version: 1.6.5
-  origversion: 1.6.5nb21
+  origversion: null
   status: outdated
-  summary: CloudFlare PKI toolkit
+  summary: CloudFlare PKI/TLS command-line toolkit and HTTP API server
   maintainers:
-    - iquiw@netbsd.org
-  categories:
-    - security
-- repo: pkgsrc_2026_3
-  srcname: security/cfssl
-  binname: cfssl
-  visiblename: security/cfssl
-  version: 1.6.5
-  origversion: 1.6.5nb26
-  status: outdated
-  summary: CloudFlare PKI toolkit
-  maintainers:
-    - iquiw@netbsd.org
-  categories:
-    - security
-- repo: pkgsrc_current
-  srcname: security/cfssl
-  binname: cfssl
-  visiblename: security/cfssl
-  version: 1.7.1
-  origversion: 1.7.1nb1
-  status: newest
-  summary: CloudFlare PKI toolkit
-  maintainers:
-    - iquiw@netbsd.org
+    - ports@openbsd.org
   categories:
     - security
 - repo: alpine_edge
@@ -104,22 +69,17 @@
     - yuri@freebsd.org
   categories:
     - security
-- repo: rosa_13
-  subrepo: contrib/release
+- repo: parabola
+  subrepo: extra
   srcname: cfssl
-  binnames:
-    - cfssl
+  binname: cfssl
   visiblename: cfssl
   version: 1.6.5
-  origversion: 1.6.5-1
+  origversion: 1.6.5-2
   status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - a.proklov@rosa.ru
+  summary: CloudFlare PKI and TLS toolkit
   licenses:
-    - BSD
-  categories:
-    - Development/Other
+    - BSD-2-Clause
 - repo: gentoo
   srcname: app-crypt/cfssl
   visiblename: app-crypt/cfssl
@@ -212,23 +172,23 @@
   srcname: cfssl
   binname: cfssl
   visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-2
+  version: 1.6.4
+  origversion: 1.6.4-1
   status: outdated
   summary: CloudFlare PKI and TLS toolkit
   licenses:
-    - BSD-2-Clause
+    - BSD
 - repo: manjaro_testing
   subrepo: extra
   srcname: cfssl
   binname: cfssl
   visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-2
+  version: 1.6.4
+  origversion: 1.6.4-1
   status: outdated
   summary: CloudFlare PKI and TLS toolkit
   licenses:
-    - BSD-2-Clause
+    - BSD
 - repo: manjaro_unstable
   subrepo: extra
   srcname: cfssl
@@ -306,18 +266,58 @@
     - marius@yeai.de
   licenses:
     - BSD-2-Clause
-- repo: openbsd
+- repo: pkgsrc_2026_2
   srcname: security/cfssl
   binname: cfssl
   visiblename: security/cfssl
   version: 1.6.5
-  origversion: null
+  origversion: 1.6.5nb21
   status: outdated
-  summary: CloudFlare PKI/TLS command-line toolkit and HTTP API server
+  summary: CloudFlare PKI toolkit
   maintainers:
-    - ports@openbsd.org
+    - iquiw@netbsd.org
   categories:
     - security
+- repo: pkgsrc_2026_3
+  srcname: security/cfssl
+  binname: cfssl
+  visiblename: security/cfssl
+  version: 1.6.5
+  origversion: 1.6.5nb26
+  status: outdated
+  summary: CloudFlare PKI toolkit
+  maintainers:
+    - iquiw@netbsd.org
+  categories:
+    - security
+- repo: pkgsrc_current
+  srcname: security/cfssl
+  binname: cfssl
+  visiblename: security/cfssl
+  version: 1.7.1
+  origversion: 1.7.1nb1
+  status: newest
+  summary: CloudFlare PKI toolkit
+  maintainers:
+    - iquiw@netbsd.org
+  categories:
+    - security
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: cfssl
+  binnames:
+    - cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: 1.6.5-1
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - BSD
+  categories:
+    - Development/Other
 - repo: scoop
   subrepo: extras
   binname: cfssl
