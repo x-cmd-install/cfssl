@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,497 · **Forks**: 1,157 · **Open issues**: 581 · **Contributors**: 239
+- **Stars**: 9,497 · **Forks**: 1,155 · **Open issues**: 581 · **Contributors**: 240
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 2 | 8 | 0 | 3 | 3 |
-| last60d | 2026-09-07 | 2 | 5 | 9 | 1 | 3 | 8 |
-| 90d | 2026-08-08 | 2 | 6 | 10 | 1 | 5 | 8 |
-| last180d | 2026-05-10 | 2 | 6 | 13 | 1 | 7 | 8 |
-| 360d | 2025-11-11 | 2 | 8 | 14 | 2 | 8 | 14 |
-| last720d | 2024-11-16 | 2 | 14 | 16 | 5 | 16 | 35 |
+| 30d | 2026-10-08 | 0 | 2 | 8 | 0 | 3 | 3 |
+| last60d | 2026-09-08 | 2 | 5 | 9 | 1 | 3 | 8 |
+| 90d | 2026-08-09 | 2 | 6 | 10 | 1 | 5 | 8 |
+| last180d | 2026-05-11 | 2 | 6 | 13 | 1 | 7 | 8 |
+| 360d | 2025-11-12 | 2 | 8 | 14 | 2 | 8 | 14 |
+| last720d | 2024-11-17 | 2 | 14 | 16 | 5 | 16 | 35 |
 
 ## Release assets
 
@@ -138,12 +138,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **30** distros on [repology.org](https://repology.org/project/cfssl). **6** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/cfssl). **6** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.6.5` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.7.1` | ✅ latest |
 | Nix unstable | `1.6.5` | ⚠️ outdated |
 | Void | `1.6.5` | ⚠️ outdated |
 | Alpine edge | `1.6.5` | ⚠️ outdated |
@@ -157,4 +157,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:33:44Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:01:33Z._
