@@ -1,3 +1,27 @@
+- repo: homebrew
+  srcname: cfssl
+  visiblename: cfssl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CloudFlare's PKI toolkit
+- repo: liguros_stable
+  srcname: app-crypt/cfssl
+  visiblename: app-crypt/cfssl
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-1
+    - MIT
+    - MPL-2.0
+  categories:
+    - app-crypt
 - repo: alpine_edge
   subrepo: testing
   srcname: cfssl
@@ -78,30 +102,6 @@
   origversion: null
   status: newest
   summary: CloudFlare's PKI toolkit
-- repo: homebrew
-  srcname: cfssl
-  visiblename: cfssl
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CloudFlare's PKI toolkit
-- repo: liguros_stable
-  srcname: app-crypt/cfssl
-  visiblename: app-crypt/cfssl
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-1
-    - MIT
-    - MPL-2.0
-  categories:
-    - app-crypt
 - repo: liguros_develop
   srcname: app-crypt/cfssl
   visiblename: app-crypt/cfssl
