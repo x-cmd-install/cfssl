@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,499 · **Forks**: 1,155 · **Open issues**: 581 · **Contributors**: 240
+- **Stars**: 9,508 · **Forks**: 1,156 · **Open issues**: 581 · **Contributors**: 240
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 2 | 7 | 0 | 3 | 1 |
-| last60d | 2026-09-11 | 2 | 5 | 9 | 1 | 3 | 8 |
-| 90d | 2026-08-12 | 2 | 6 | 9 | 1 | 4 | 8 |
-| last180d | 2026-05-14 | 2 | 6 | 13 | 1 | 7 | 8 |
-| 360d | 2025-11-15 | 2 | 8 | 14 | 2 | 8 | 14 |
-| last720d | 2024-11-20 | 2 | 14 | 16 | 5 | 16 | 35 |
+| 30d | 2026-10-12 | 0 | 2 | 7 | 0 | 3 | 1 |
+| last60d | 2026-09-12 | 2 | 5 | 9 | 1 | 3 | 8 |
+| 90d | 2026-08-13 | 2 | 6 | 9 | 1 | 4 | 8 |
+| last180d | 2026-05-15 | 2 | 6 | 13 | 1 | 7 | 8 |
+| 360d | 2025-11-16 | 2 | 8 | 14 | 2 | 8 | 14 |
+| last720d | 2024-11-21 | 2 | 14 | 16 | 5 | 16 | 35 |
 
 ## Release assets
 
@@ -143,7 +143,7 @@ Reported by **29** distros on [repology.org](https://repology.org/project/cfssl)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.6.5` | ⚠️ outdated |
-| Homebrew | `1.7.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.6.5` | ⚠️ outdated |
 | Void | `1.6.5` | ⚠️ outdated |
 | Alpine edge | `1.6.5` | ⚠️ outdated |
@@ -157,4 +157,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:13:56Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:07:18Z._
