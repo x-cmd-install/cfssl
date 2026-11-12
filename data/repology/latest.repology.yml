@@ -5,23 +5,29 @@
   origversion: null
   status: rolling
   summary: CloudFlare's PKI toolkit
-- repo: liguros_stable
-  srcname: app-crypt/cfssl
-  visiblename: app-crypt/cfssl
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: cfssl
+  binnames:
+    - cfssl
+  visiblename: cfssl
   version: 1.6.5
-  origversion: null
+  origversion: 1.6.5-1
   status: outdated
   summary: Cloudflare's PKI and TLS toolkit
   maintainers:
-    - williamh@gentoo.org
+    - a.proklov@rosa.ru
   licenses:
-    - Apache-2.0
     - BSD
-    - BSD-1
-    - MIT
-    - MPL-2.0
   categories:
-    - app-crypt
+    - Development/Other
+- repo: homebrew
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.7.1
+  origversion: null
+  status: newest
+  summary: CloudFlare's PKI toolkit
 - repo: alpine_edge
   subrepo: testing
   srcname: cfssl
@@ -63,7 +69,7 @@
   binname: cfssl
   visiblename: security/cfssl
   version: 1.7.1
-  origversion: 1.7.1_1
+  origversion: 1.7.1_2
   status: newest
   summary: Cloudflare's PKI and TLS toolkit
   maintainers:
@@ -95,13 +101,23 @@
   origversion: null
   status: outdated
   summary: Cloudflare's PKI and TLS toolkit
-- repo: homebrew
-  srcname: cfssl
-  visiblename: cfssl
-  version: 1.7.1
+- repo: liguros_stable
+  srcname: app-crypt/cfssl
+  visiblename: app-crypt/cfssl
+  version: 1.6.5
   origversion: null
-  status: newest
-  summary: CloudFlare's PKI toolkit
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-1
+    - MIT
+    - MPL-2.0
+  categories:
+    - app-crypt
 - repo: liguros_develop
   srcname: app-crypt/cfssl
   visiblename: app-crypt/cfssl
@@ -284,29 +300,13 @@
   binname: cfssl
   visiblename: security/cfssl
   version: 1.7.1
-  origversion: 1.7.1nb1
+  origversion: 1.7.1nb2
   status: newest
   summary: CloudFlare PKI toolkit
   maintainers:
     - iquiw@netbsd.org
   categories:
     - security
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: cfssl
-  binnames:
-    - cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-1
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - BSD
-  categories:
-    - Development/Other
 - repo: scoop
   subrepo: extras
   binname: cfssl
