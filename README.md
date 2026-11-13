@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,508 · **Forks**: 1,156 · **Open issues**: 581 · **Contributors**: 240
+- **Stars**: 9,509 · **Forks**: 1,156 · **Open issues**: 581 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 667 · **Open PRs**: 72 · **Closed issues**: 307 · **Open issues**: 274 · **Commits**: 1582
+- **Releases**: 18 · **Merged PRs**: 667 · **Open PRs**: 71 · **Closed issues**: 307 · **Open issues**: 274 · **Commits**: 1582
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 1 | 9 | 0 | 3 | 1 |
-| last60d | 2026-09-13 | 2 | 5 | 11 | 1 | 3 | 8 |
-| 90d | 2026-08-14 | 2 | 6 | 11 | 1 | 4 | 8 |
-| last180d | 2026-05-16 | 2 | 6 | 15 | 1 | 7 | 8 |
-| 360d | 2025-11-17 | 2 | 8 | 16 | 2 | 8 | 14 |
-| last720d | 2024-11-22 | 2 | 14 | 18 | 5 | 16 | 35 |
+| 30d | 2026-10-14 | 0 | 1 | 7 | 0 | 3 | 1 |
+| last60d | 2026-09-14 | 2 | 5 | 10 | 1 | 3 | 8 |
+| 90d | 2026-08-15 | 2 | 6 | 10 | 1 | 4 | 8 |
+| last180d | 2026-05-17 | 2 | 6 | 14 | 1 | 7 | 8 |
+| 360d | 2025-11-18 | 2 | 8 | 15 | 2 | 8 | 14 |
+| last720d | 2024-11-23 | 2 | 14 | 17 | 5 | 16 | 35 |
 
 ## Release assets
 
@@ -143,7 +143,7 @@ Reported by **29** distros on [repology.org](https://repology.org/project/cfssl)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.6.5` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.7.1` | ✅ latest |
 | Nix unstable | `1.6.5` | ⚠️ outdated |
 | Void | `1.6.5` | ⚠️ outdated |
 | Alpine edge | `1.6.5` | ⚠️ outdated |
@@ -157,4 +157,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:16:10Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:45:33Z._
