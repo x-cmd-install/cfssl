@@ -1,26 +1,4 @@
-- repo: nix_stable_25_05
-  srcname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - marius@yeai.de
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_11
-  srcname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - marius@yeai.de
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_26_05
+- repo: nix_stable_24_11
   srcname: cfssl
   visiblename: cfssl
   version: 1.6.5
@@ -210,7 +188,29 @@
     - marius@yeai.de
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_24_11
+- repo: nix_stable_25_05
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - marius@yeai.de
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - marius@yeai.de
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_26_05
   srcname: cfssl
   visiblename: cfssl
   version: 1.6.5
