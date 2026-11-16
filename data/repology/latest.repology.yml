@@ -1,12 +1,24 @@
-- repo: nix_stable_24_11
-  srcname: cfssl
-  visiblename: cfssl
+- repo: openbsd
+  srcname: security/cfssl
+  binname: cfssl
+  visiblename: security/cfssl
   version: 1.6.5
   origversion: null
   status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
+  summary: CloudFlare PKI/TLS command-line toolkit and HTTP API server
   maintainers:
-    - marius@yeai.de
+    - ports@openbsd.org
+  categories:
+    - security
+- repo: parabola
+  subrepo: extra
+  srcname: cfssl
+  binname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: 1.6.5-2
+  status: outdated
+  summary: CloudFlare PKI and TLS toolkit
   licenses:
     - BSD-2-Clause
 - repo: alpine_edge
@@ -188,6 +200,17 @@
     - marius@yeai.de
   licenses:
     - BSD-2-Clause
+- repo: nix_stable_24_11
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - marius@yeai.de
+  licenses:
+    - BSD-2-Clause
 - repo: nix_stable_25_05
   srcname: cfssl
   visiblename: cfssl
@@ -232,29 +255,6 @@
     - marius@yeai.de
   licenses:
     - BSD-2-Clause
-- repo: openbsd
-  srcname: security/cfssl
-  binname: cfssl
-  visiblename: security/cfssl
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: CloudFlare PKI/TLS command-line toolkit and HTTP API server
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - security
-- repo: parabola
-  subrepo: extra
-  srcname: cfssl
-  binname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: 1.6.5-2
-  status: outdated
-  summary: CloudFlare PKI and TLS toolkit
-  licenses:
-    - BSD-2-Clause
 - repo: pkgsrc_2026_2
   srcname: security/cfssl
   binname: cfssl
@@ -272,7 +272,7 @@
   binname: cfssl
   visiblename: security/cfssl
   version: 1.6.5
-  origversion: 1.6.5nb26
+  origversion: 1.6.5nb27
   status: outdated
   summary: CloudFlare PKI toolkit
   maintainers:
