@@ -1,4 +1,4 @@
-- repo: nix_stable_25_11
+- repo: nix_stable_24_05
   srcname: cfssl
   visiblename: cfssl
   version: 1.6.5
@@ -9,6 +9,31 @@
     - marius@yeai.de
   licenses:
     - BSD-2-Clause
+- repo: nix_stable_24_11
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - marius@yeai.de
+  licenses:
+    - BSD-2-Clause
+- repo: macports
+  srcname: security/cfssl
+  binname: cfssl
+  visiblename: cfssl
+  version: 1.7.1
+  origversion: null
+  status: newest
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - BSD
+  categories:
+    - security
 - repo: alpine_edge
   subrepo: testing
   srcname: cfssl
@@ -130,20 +155,6 @@
     - MPL-2.0
   categories:
     - app-crypt
-- repo: macports
-  srcname: security/cfssl
-  binname: cfssl
-  visiblename: cfssl
-  version: 1.7.1
-  origversion: null
-  status: newest
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - BSD
-  categories:
-    - security
 - repo: manjaro_stable
   subrepo: extra
   srcname: cfssl
@@ -177,29 +188,18 @@
   summary: CloudFlare PKI and TLS toolkit
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_24_05
-  srcname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - marius@yeai.de
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_24_11
-  srcname: cfssl
-  visiblename: cfssl
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Cloudflare's PKI and TLS toolkit
-  maintainers:
-    - marius@yeai.de
-  licenses:
-    - BSD-2-Clause
 - repo: nix_stable_25_05
+  srcname: cfssl
+  visiblename: cfssl
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Cloudflare's PKI and TLS toolkit
+  maintainers:
+    - marius@yeai.de
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
   srcname: cfssl
   visiblename: cfssl
   version: 1.6.5
