@@ -14,11 +14,11 @@ x install cfssl
 
 ## Code insight
 
-Total: **640,885** lines of code across **1716** files in the top 5 languages.
+Total: **642,802** lines of code across **1720** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 452,804 | 65,758 | 46,733 | 1635 |
+| Go | 454,721 | 65,889 | 46,873 | 1639 |
 | C | 170,357 | 71,669 | 14,180 | 4 |
 | AssemblyGAS | 10,050 | 1,087 | 2,236 | 58 |
 | CHeader | 2,410 | 11,416 | 358 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.1` (2026-10-06)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-18
 - **Assets in release**: 66
 
 ## Popularity
 
-- **Stars**: 9,512 · **Forks**: 1,158 · **Open issues**: 581 · **Contributors**: 241
+- **Stars**: 9,514 · **Forks**: 1,157 · **Open issues**: 581 · **Contributors**: 241
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 667 · **Open PRs**: 71 · **Closed issues**: 307 · **Open issues**: 274 · **Commits**: 1582
+- **Releases**: 18 · **Merged PRs**: 670 · **Open PRs**: 69 · **Closed issues**: 307 · **Open issues**: 274 · **Commits**: 1587
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 5 | 0 | 2 | 0 |
-| last60d | 2026-09-18 | 2 | 5 | 10 | 1 | 3 | 7 |
-| 90d | 2026-08-19 | 2 | 6 | 10 | 1 | 4 | 8 |
-| last180d | 2026-05-21 | 2 | 6 | 13 | 1 | 7 | 8 |
-| 360d | 2025-11-22 | 2 | 8 | 15 | 2 | 8 | 14 |
-| last720d | 2024-11-27 | 2 | 14 | 17 | 5 | 16 | 35 |
+| 30d | 2026-10-20 | 0 | 4 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-20 | 2 | 8 | 8 | 1 | 3 | 9 |
+| 90d | 2026-08-21 | 2 | 9 | 8 | 1 | 4 | 10 |
+| last180d | 2026-05-23 | 2 | 9 | 11 | 1 | 7 | 10 |
+| 360d | 2025-11-24 | 2 | 11 | 13 | 2 | 8 | 16 |
+| last720d | 2024-11-29 | 2 | 17 | 15 | 5 | 16 | 40 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:11:51Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:18:59Z._
