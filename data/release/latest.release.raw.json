@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12916328,
       "digest": "sha256:24dd830c40bce660002949bfbaa74fcc7dbccfebced7736eeddff62ba240f3e8",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-19T18:38:23Z",
       "updated_at": "2026-11-19T18:38:25Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12812448,
       "digest": "sha256:da23acaf5e01b7fa463cd987de62e9697aa3a4dec421626449777100644503a3",
-      "download_count": 10,
+      "download_count": 38,
       "created_at": "2026-11-19T18:38:23Z",
       "updated_at": "2026-11-19T18:38:26Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_linux_amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12058784,
       "digest": "sha256:eafd32510e9d76d088e9acd8cf381349b3c6d8e0fddc3041ba2afbb346a9d1e7",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-19T18:38:30Z",
       "updated_at": "2026-11-19T18:38:36Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_linux_arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12320928,
       "digest": "sha256:bced3d684d5f9516174e00caa7030bcb6b01e408f7bd9095a4b3f6e7f9ee7d75",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:37Z",
       "updated_at": "2026-11-19T18:38:39Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_linux_armv6"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12648608,
       "digest": "sha256:07e78df616763d9ba77b746bc2a04087bf8936e2bcf5f786d2ab5a746808c796",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:42Z",
       "updated_at": "2026-11-19T18:38:44Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_linux_ppc64le"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11403424,
       "digest": "sha256:acd4004d90cdbaa3884c6b91a6af75417815b3e8947041de097a3d91f0e5290b",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:45Z",
       "updated_at": "2026-11-19T18:38:46Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_linux_riscv64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13303968,
       "digest": "sha256:541fef9771bb3810a9f199c87e0746488d3053c89f3fa5ba141f758b55b33cb8",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:27Z",
       "updated_at": "2026-11-19T18:38:29Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_linux_s390x"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13168128,
       "digest": "sha256:25ae37bd93862e4b097481e0e61b9fc42398e086d7098f96864940cc860896bf",
-      "download_count": 13,
+      "download_count": 32,
       "created_at": "2026-11-19T18:38:58Z",
       "updated_at": "2026-11-19T18:39:00Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-bundle_1.7.2_windows_amd64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14483584,
       "digest": "sha256:eafde47fa596aae47f950610d18189d7755297187ea6000759bfb7a676fcb690",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:28Z",
       "updated_at": "2026-11-19T18:38:29Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_darwin_amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12820640,
       "digest": "sha256:827ae7ef70217fce203184afa6990d92d5a09fba04276dca9e60ad33088b641b",
-      "download_count": 8,
+      "download_count": 36,
       "created_at": "2026-11-19T18:38:26Z",
       "updated_at": "2026-11-19T18:38:27Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_linux_amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 11993248,
       "digest": "sha256:2a4ff2e2be5f0e76a5063c12d80ca604dfeaa1d9afd6ddff6606d0fdf99794b8",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:33Z",
       "updated_at": "2026-11-19T18:38:34Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_linux_arm64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12386464,
       "digest": "sha256:d0529543fde6c36ad861ad1f5b625c9411bb1fc56c3c7a314603036cf44f4cc8",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:49Z",
       "updated_at": "2026-11-19T18:38:51Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_linux_armv6"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12583072,
       "digest": "sha256:9dfabb1cff2fa7db50a818c3fd87c650d0849426b87053de044d7db688bcb824",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:51Z",
       "updated_at": "2026-11-19T18:38:53Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_linux_ppc64le"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11403424,
       "digest": "sha256:8f892d87c56b6e6305b96c3f98f5315fe4b67d3d23114f4603b58d29eb15bf90",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:46Z",
       "updated_at": "2026-11-19T18:38:47Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_linux_riscv64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 13238432,
       "digest": "sha256:94bc8ccf2fb959c20798965f3883a55d12bfb5393e47bef680b9733c0f8aaf64",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:31Z",
       "updated_at": "2026-11-19T18:38:32Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_linux_s390x"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 13227008,
       "digest": "sha256:079763c4d5b44427be0b6805b880537fc8256e3e1a76d166359cb17a56628b7c",
-      "download_count": 12,
+      "download_count": 32,
       "created_at": "2026-11-19T18:38:59Z",
       "updated_at": "2026-11-19T18:39:02Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-certinfo_1.7.2_windows_amd64.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 13481416,
       "digest": "sha256:3a9a1318f3f70c6b4726804a4df5186d21059cc63603f465760135d56517eddc",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:29Z",
       "updated_at": "2026-11-19T18:38:31Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_darwin_amd64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13377696,
       "digest": "sha256:1ca0f2fc40af15764c782a98e5a229d30535323133260ef6ca12a8f5b05690e8",
-      "download_count": 8,
+      "download_count": 36,
       "created_at": "2026-11-19T18:38:32Z",
       "updated_at": "2026-11-19T18:38:33Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_linux_amd64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 12583072,
       "digest": "sha256:26b98562eae0abeae7c3c34c16f682a03f47b2a38a69adc3e25968cf9edbaa17",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:35Z",
       "updated_at": "2026-11-19T18:38:36Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_linux_arm64"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 12779680,
       "digest": "sha256:b8eb3e886ab7df65b7e1e322392457fef266c7ec6f6f3b5f983b0d7f53ecc0d1",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:50Z",
       "updated_at": "2026-11-19T18:38:51Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_linux_armv6"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 13303968,
       "digest": "sha256:87c1a39a83a9fc4e78f1b4e279e6feb7183c8a9c25b2cc0513c21131c0ef0643",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:51Z",
       "updated_at": "2026-11-19T18:38:53Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_linux_ppc64le"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 11927712,
       "digest": "sha256:9d3ad0e34ff6be6b03133a85e07c17cc231b300b253aafddf0a34f3b013a463b",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:48Z",
       "updated_at": "2026-11-19T18:38:50Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_linux_riscv64"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 13893792,
       "digest": "sha256:de442117040040bf02be78c495109798ed8b91071d32329db0afc1c84ca84624",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:32Z",
       "updated_at": "2026-11-19T18:38:34Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_linux_s390x"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13741056,
       "digest": "sha256:aef32daf83e2537c45ef8a28603fd5b32fde21f21f430a227746558d73d67401",
-      "download_count": 12,
+      "download_count": 31,
       "created_at": "2026-11-19T18:38:59Z",
       "updated_at": "2026-11-19T18:39:02Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-newkey_1.7.2_windows_amd64.exe"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 13242688,
       "digest": "sha256:8ce2e4fcf42a87828d75386640f6b98e4b266c68a8105d34a794c980ee84ac7e",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:29Z",
       "updated_at": "2026-11-19T18:38:32Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_darwin_amd64"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 13136032,
       "digest": "sha256:efbf3de4056d960a50c97e33f98fe199ceb1103db009ae929bd1a9f523f42f94",
-      "download_count": 7,
+      "download_count": 36,
       "created_at": "2026-11-19T18:38:34Z",
       "updated_at": "2026-11-19T18:38:35Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_linux_amd64"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 12386464,
       "digest": "sha256:a4d37e46ada70034fcd3f1eb2bdc24c8580f8a965ed2eb8e9a1a861a28d2ff46",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:39Z",
       "updated_at": "2026-11-19T18:38:41Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_linux_arm64"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 12583072,
       "digest": "sha256:9bc5b76c5eb398fb1f33ea7ece93be3dca31e40d389d32e87e7d32bd65ab11b4",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:51Z",
       "updated_at": "2026-11-19T18:38:53Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_linux_armv6"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 12976288,
       "digest": "sha256:ced063c1d9020cb6d0f2e215c24860a9788ab88323240951ef58b48266b3c24b",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:53Z",
       "updated_at": "2026-11-19T18:38:56Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_linux_ppc64le"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 11796640,
       "digest": "sha256:772b9d1e2ac9900a5ce946f7dd55fdbdf33355fd442d8a1c47e4f112cc1863c2",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:56Z",
       "updated_at": "2026-11-19T18:38:57Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_linux_riscv64"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 13631648,
       "digest": "sha256:98f58a2a59c4acf1cbaa8b08cfa8438e4058a39a69ee112717a9860466a3815d",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:36Z",
       "updated_at": "2026-11-19T18:38:39Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_linux_s390x"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 13496320,
       "digest": "sha256:234a3ed9956048111c6d5ce9f6f8a6d021d6072379ee5ba28208c207381f4561",
-      "download_count": 11,
+      "download_count": 30,
       "created_at": "2026-11-19T18:39:01Z",
       "updated_at": "2026-11-19T18:39:03Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl-scan_1.7.2_windows_amd64.exe"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 10224320,
       "digest": "sha256:a17d70b5b6a1127f2687225bb978b88c44e3e5aa396514ee213ff444a614c7ab",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-11-19T18:38:35Z",
       "updated_at": "2026-11-19T18:38:35Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_darwin_amd64"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 10158240,
       "digest": "sha256:2575d36f3a5b7ee458ae438cdf653689fdb1d5000de475ce93de483e76ec9d1c",
-      "download_count": 84,
+      "download_count": 361,
       "created_at": "2026-11-19T18:38:40Z",
       "updated_at": "2026-11-19T18:38:41Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_linux_amd64"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 9568416,
       "digest": "sha256:664e4440616c900868fa26a2e9b809e4b81484f50e4291fd014bba50b8fb8aa9",
-      "download_count": 11,
+      "download_count": 27,
       "created_at": "2026-11-19T18:38:40Z",
       "updated_at": "2026-11-19T18:38:42Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_linux_arm64"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 9765024,
       "digest": "sha256:6d14b6618d2a94c454ca04fab4f546e00075bd0b4e4a0b4617fbed664324e222",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:52Z",
       "updated_at": "2026-11-19T18:38:53Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_linux_armv6"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 10092704,
       "digest": "sha256:0284814ad9741330042fcbf7c3c35c7d2759d56c1dc64da0883cbf8bdad6ee44",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:54Z",
       "updated_at": "2026-11-19T18:38:56Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_linux_ppc64le"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 9175200,
       "digest": "sha256:205b1f8c5cfa06fd21d26ed536a3dd11d026b5aa01f88bec74362a897053450a",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:56Z",
       "updated_at": "2026-11-19T18:38:57Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_linux_riscv64"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 10551456,
       "digest": "sha256:6baac6bb338e4fbeee2468948a2698bbd35d4b6a34869abd9afe5ad320d23202",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-19T18:38:43Z",
       "updated_at": "2026-11-19T18:38:45Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_linux_s390x"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 10435584,
       "digest": "sha256:7aae47f2dfc7ae108a0b9fd54ee513b1880023c7209472ec804ae542000be4aa",
-      "download_count": 12,
+      "download_count": 32,
       "created_at": "2026-11-19T18:39:01Z",
       "updated_at": "2026-11-19T18:39:03Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssljson_1.7.2_windows_amd64.exe"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 6267,
       "digest": "sha256:ce87c93e4c05a62e34c0268953da8cf7d9905f482876c2269b4fb0e830a7be97",
-      "download_count": 41,
+      "download_count": 92,
       "created_at": "2026-11-19T18:39:04Z",
       "updated_at": "2026-11-19T18:39:04Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_checksums.txt"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 17431336,
       "digest": "sha256:6d2fb8559421a7750de10022d68bd903fd36abe917e58077beac5bf716e56700",
-      "download_count": 6,
+      "download_count": 11,
       "created_at": "2026-11-19T18:38:23Z",
       "updated_at": "2026-11-19T18:38:26Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_darwin_amd64"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 16412802,
       "digest": "sha256:ca2c769179bd3034d40c7fb1a7d632a684274aa4cc85e6e74b2703e68e1713b7",
-      "download_count": 9,
+      "download_count": 15,
       "created_at": "2026-11-19T18:38:27Z",
       "updated_at": "2026-11-19T18:38:29Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_darwin_arm64"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 15749280,
       "digest": "sha256:1b48416f782180ba3b9bb5ac5be2612a430008d0455a108149db26b0a94ad200",
-      "download_count": 78,
+      "download_count": 374,
       "created_at": "2026-11-19T18:38:23Z",
       "updated_at": "2026-11-19T18:38:26Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_linux_amd64"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 14745760,
       "digest": "sha256:2cac637448ff67eb4d81a8305ada466fa5fb14c4ec1eef6d31794722c3f1860c",
-      "download_count": 11,
+      "download_count": 33,
       "created_at": "2026-11-19T18:38:30Z",
       "updated_at": "2026-11-19T18:38:32Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_linux_arm64"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 15073440,
       "digest": "sha256:b058d0b1440b13fc7788a5a0c6f4c3d517de14f964ec65b05af985a06952d785",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:37Z",
       "updated_at": "2026-11-19T18:38:40Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_linux_armv6"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 15532192,
       "digest": "sha256:4c9539c16248c61a24ac290d309b720d11c7b2aa8c4ca517c7fc16036a950aa7",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:47Z",
       "updated_at": "2026-11-19T18:38:49Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_linux_ppc64le"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 13959328,
       "digest": "sha256:8e1ff1f848ead71621fe9ee93ae243198642b0ea515b6c50e5c202d56cb82178",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:44Z",
       "updated_at": "2026-11-19T18:38:45Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_linux_riscv64"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 16318624,
       "digest": "sha256:2491a04fb9da79e6e52be7ff7f9af01f2b87c8817506ed520f1c777bafba5c94",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:26Z",
       "updated_at": "2026-11-19T18:38:29Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_linux_s390x"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 16222720,
       "digest": "sha256:9e2776462648558893481553543a6ff30eea01c3654d65fe9b9cd5b5299a60c5",
-      "download_count": 15,
+      "download_count": 40,
       "created_at": "2026-11-19T18:38:47Z",
       "updated_at": "2026-11-19T18:38:50Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/cfssl_1.7.2_windows_amd64.exe"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 6848264,
       "digest": "sha256:f5336e8637f6420ebb7edf53e1be7dbc42df4323d04b7a5ca48a820b38ff5e4d",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:36Z",
       "updated_at": "2026-11-19T18:38:37Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_darwin_amd64"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 6774944,
       "digest": "sha256:41244f5d3d6a62972ce1185d658b0f104f542ad3db0c80373ea1aa3a56865b4e",
-      "download_count": 7,
+      "download_count": 37,
       "created_at": "2026-11-19T18:38:41Z",
       "updated_at": "2026-11-19T18:38:42Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_linux_amd64"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 6357152,
       "digest": "sha256:c20db97ecd534ad88fb733c0be5d3f23a1768b7766f1bea768a39b0247f101d2",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-19T18:38:40Z",
       "updated_at": "2026-11-19T18:38:41Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_linux_arm64"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 6684832,
       "digest": "sha256:a3d24ad5b7e61a4fc045d9161381123f35076341b6cc0bd55827dfd52f94b2cc",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-19T18:38:54Z",
       "updated_at": "2026-11-19T18:38:55Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_linux_armv6"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 6684832,
       "digest": "sha256:759c48accc2eacd6ce4b45453b5157138ba9714f8be8ca4cd43d3bf6df32fff6",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-19T18:38:58Z",
       "updated_at": "2026-11-19T18:38:59Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_linux_ppc64le"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 6029472,
       "digest": "sha256:899fbbe5e0b048edac5e59d610b7df926c7cb5828291b6883cd4043389c07fa6",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-19T18:38:57Z",
       "updated_at": "2026-11-19T18:38:58Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_linux_riscv64"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 7012512,
       "digest": "sha256:61f471e087d4c9a61c1c000b7afc2d373045be13d593db57f02166386b1c0483",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-19T18:38:45Z",
       "updated_at": "2026-11-19T18:38:46Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_linux_s390x"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 6976512,
       "digest": "sha256:446eed05a2ed22656efeafa93b4ec2a934b8582a791cadad78122ad3ea4540af",
-      "download_count": 11,
+      "download_count": 28,
       "created_at": "2026-11-19T18:39:02Z",
       "updated_at": "2026-11-19T18:39:04Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/mkbundle_1.7.2_windows_amd64.exe"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 17494496,
       "digest": "sha256:8c3b3112949d58a41595fcaaef182036a39af950bcb24dd5b63e2cf054dd2b57",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:36Z",
       "updated_at": "2026-11-19T18:38:39Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_darwin_amd64"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 15806624,
       "digest": "sha256:0013a5d0a4df3a0b263d596a1ff7e524eb15f4934582ce96ceb79ecb4ec88f96",
-      "download_count": 7,
+      "download_count": 36,
       "created_at": "2026-11-19T18:38:42Z",
       "updated_at": "2026-11-19T18:38:45Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_amd64"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 14876832,
       "digest": "sha256:078aedbfdb4e5eb316f45195068e3462aa74beae53e73d2b040bf990c793ed7e",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:42Z",
       "updated_at": "2026-11-19T18:38:43Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_arm64"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 15138976,
       "digest": "sha256:b56af9afc856ea88ecd72add53b2e9eeeb2f2be1753139c18372805b8e3fbde2",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:54Z",
       "updated_at": "2026-11-19T18:38:56Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_armv6"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 15663264,
       "digest": "sha256:a0b1bb1bf673d21e7e6edcbcf37dda149362e152ace865a5a63e30672457d0bd",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:58Z",
       "updated_at": "2026-11-19T18:39:00Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_ppc64le"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 14090400,
       "digest": "sha256:1b295b9aa3c71d72a207c13039c96394b807e21dcbf5ff34c0b3da0584cb812e",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T18:38:57Z",
       "updated_at": "2026-11-19T18:38:58Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_riscv64"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 16384160,
       "digest": "sha256:fa1218e9921f75dbb7a3bbf64dc6178bebdf105cdf04527290cb58ff7f933e46",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-19T18:38:46Z",
       "updated_at": "2026-11-19T18:38:49Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_s390x"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 16288768,
       "digest": "sha256:917be9df6025fd96304755d0a5b51a189b6f5fa2577e5ad4d1cd68755383ea8a",
-      "download_count": 12,
+      "download_count": 30,
       "created_at": "2026-11-19T18:39:03Z",
       "updated_at": "2026-11-19T18:39:05Z",
       "browser_download_url": "https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_windows_amd64.exe"
