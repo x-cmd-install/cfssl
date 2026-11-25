@@ -26,7 +26,7 @@ Total: **642,802** lines of code across **1720** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,517 · **Forks**: 1,158 · **Open issues**: 581 · **Contributors**: 245
+- **Stars**: 9,521 · **Forks**: 1,158 · **Open issues**: 581 · **Contributors**: 245
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 3 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-25 | 3 | 8 | 8 | 1 | 3 | 8 |
-| 90d | 2026-08-26 | 3 | 8 | 8 | 1 | 4 | 10 |
-| last180d | 2026-05-28 | 3 | 9 | 11 | 1 | 7 | 10 |
-| 360d | 2025-11-29 | 3 | 11 | 13 | 2 | 8 | 16 |
-| last720d | 2024-12-04 | 3 | 17 | 15 | 5 | 16 | 40 |
+| 30d | 2026-10-26 | 1 | 3 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-26 | 3 | 8 | 8 | 1 | 3 | 8 |
+| 90d | 2026-08-27 | 3 | 8 | 8 | 1 | 4 | 10 |
+| last180d | 2026-05-29 | 3 | 9 | 11 | 1 | 7 | 10 |
+| 360d | 2025-11-30 | 3 | 11 | 13 | 2 | 8 | 16 |
+| last720d | 2024-12-05 | 3 | 17 | 15 | 5 | 16 | 40 |
 
 ## Release assets
 
@@ -136,18 +136,6 @@ Lowest-scoring checks:
 | [multirootca_1.7.2_linux_s390x](https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_linux_s390x) | 15.6 MiB | `other` |
 | [multirootca_1.7.2_windows_amd64.exe](https://github.com/cloudflare/cfssl/releases/download/v1.7.2/multirootca_1.7.2_windows_amd64.exe) | 15.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **29** distros on [repology.org](https://repology.org/project/cfssl). **5** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.6.5` | ⚠️ outdated |
-| Homebrew | `1.7.2` | ✅ latest |
-| Nix unstable | `1.6.5` | ⚠️ outdated |
-| Void | `1.6.5` | ⚠️ outdated |
-| Alpine edge | `1.6.5` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cfssl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -157,4 +145,4 @@ Install metadata for cfssl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:02:53Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:25:56Z._
